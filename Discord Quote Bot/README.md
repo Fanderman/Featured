@@ -1,0 +1,1 @@
+A fun little project about creating a discord bot which can speak recorded quotes on both Discord and Google-meet meetings.

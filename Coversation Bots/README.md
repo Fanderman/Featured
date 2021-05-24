@@ -1,0 +1,1 @@
+Those bots use files that are unprovided in this repository due to copyrights, however they are proofs of concepts and can be modified to work with other dictionaries.

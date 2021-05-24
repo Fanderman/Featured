@@ -1,0 +1,1 @@
+Indukcja matematyczna, zwana też indukcją zupełną, jest to metoda dowodzenia twierdzeń o liczbach naturalnych.
