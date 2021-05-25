@@ -1,10 +1,10 @@
 Periodically updated with my public projects I believe to be interesting.
 
 My other projects:
-1. Bachelor Thesis - exploring AI for the game 'Hanabi'.
-Developed and implemented over 5 bots that can play effectively with each other and humans, including self-learning AI based on game simulation. 
+1. Bachelor Thesis - exploring AI for the game 'Hanabi'. /n
+Developed and implemented over 5 bots that can play effectively with each other and humans, including self-learning AI based on game simulation. /n
 Awarded in yearly contest for best bachelor thesis on University of Wrocław.
-Files link: https://github.com/vtu-dog/Hanabi-AI-Engineering-Thesis
+Files link: https://github.com/vtu-dog/Hanabi-AI-Engineering-Thesis /n
 Thesis link: https://ii.uni.wroc.pl/media/uploads/2020/10/21/leja-jacek.pdf
 
 2. Automated implementation of popular board game "7 Wonders", written in Lua using "Tabletop Simulator". 
