@@ -3,14 +3,14 @@ Periodically updated with my public projects I believe to be interesting.
 My other projects:
 1. Potionomics - modding project, game redesign and Discord hub<br>Reverse engineered 'Potionomics' (Unreal Engine 4.24) and developed multiple overhauls of core gameplay elements, utilizing lots of creative coding.
 Projects includes multiple custom-made graphics and dialogs as well.
-Organized multiple discussions and a large Discord server for the project. Over a 2 year-long project to bring to life a new vision for the game. 
-Game link: https://store.steampowered.com/app/1874490/Potionomics/
-Mods link: https://www.moddb.com/games/potionomics/mods
-Discord link: https://discord.gg/fKQM74Rs8b
+Organized multiple discussions and a large Discord server for the project. Over a 2 year-long project to bring to life a new vision for the game.<br>
+Game link: https://store.steampowered.com/app/1874490/Potionomics/<br>
+Mods link: https://www.moddb.com/games/potionomics/mods<br>
+Discord link: https://discord.gg/fKQM74Rs8b<br>
 
 3. Master Thesis++ – Stock Market automated prediction and trading<br>
 A machine learning project which achieved state of the art results in stock market price prediction, leveraging big data, creative thinking about data modifications, and numerous specialized algorithms. 
-Also implemented a fully automated self-researching and self-improving trading bot on the Alpaca trading service.
+Also implemented a fully automated self-researching and self-improving trading bot on the Alpaca trading service.<br>
 Thesis link: https://drive.google.com/file/d/1xn0QSFPB4720RanXAfhJtV54cgGW-qgy/view?usp=sharing
 
 4. Bachelor Thesis - exploring AI for the game 'Hanabi'.  
