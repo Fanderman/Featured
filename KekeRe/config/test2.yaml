@@ -1,0 +1,7 @@
+title:
+  2: 'Tutorial 2: Interactive Objects'
+testIn: |-
+  world1/tutorial2.tmx
+  100
+isTest: 'true'
+isValidator: 'false'

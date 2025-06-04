@@ -1,0 +1,7 @@
+title:
+  2: 'World 1: Basic Alchemy'
+testIn: |-
+  world1/map5.tmx
+  500
+isTest: 'true'
+isValidator: 'false'

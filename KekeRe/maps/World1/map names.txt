@@ -1,0 +1,8 @@
+map1 - Hello World
+map2 - Back Entrance
+map3 - Hidden in Plain Sight
+map4 - Luna Park
+map5 - Basic Alchemy
+map6 - Double Flag
+map7 - Spikes Parade
+map8 - Combination Lock

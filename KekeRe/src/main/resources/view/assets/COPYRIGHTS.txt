@@ -1,0 +1,7 @@
+texture pack: https://opengameart.org/content/dungeon-crawl-32x32-tiles
+Chris Hamons (maintainer)
+
+
+buttons: donnie9171
+http://creativecommons.org/licenses/by-sa/4.0/
+Scaled buttons to fit 32x32 theme
