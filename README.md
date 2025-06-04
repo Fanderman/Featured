@@ -5,12 +5,10 @@ My other projects:
 Reverse engineered 'Potionomics' (Unreal Engine 4.24) and developed multiple overhauls of core gameplay elements, utilizing lots of creative coding.
 Projects includes multiple custom-made graphics and dialogs as well.
 Organized multiple discussions and a large Discord server for the project. Over a 2 year-long project to bring to life a new vision for the game. 
-
 Game link: https://store.steampowered.com/app/1874490/Potionomics/
 Mods link: https://www.moddb.com/games/potionomics/mods
 Discord link: https://discord.gg/fKQM74Rs8b
 
-3. 
 2. Master Thesis++ – Stock Market automated prediction and trading 
 A machine learning project which achieved state of the art results in stock market price prediction, leveraging big data, creative thinking about data modifications, and numerous specialized algorithms. 
 Also implemented a fully automated self-researching and self-improving trading bot on the Alpaca trading service.
